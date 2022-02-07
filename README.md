@@ -1,5 +1,5 @@
 ### Hi I'm KawabataHaruki👋
-
+<a href="https://shrub-music-16e.notion.site/Study-b5986b5c5547484f87260b1372dd3e51">学習ページ📚</a>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawabata324&layout=compact&show_icons=true&theme=onedark" />
