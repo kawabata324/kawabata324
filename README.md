@@ -1,6 +1,10 @@
 ### Hi I'm KawabataHaruki👋
-<a href="https://shrub-music-16e.notion.site/Study-b5986b5c5547484f87260b1372dd3e51">学習ページ📚</a>
-
+<div align="left">
+  My Study Logs ➡️
+  <a href="https://shrub-music-16e.notion.site/Study-b5986b5c5547484f87260b1372dd3e51">学習ページ📚</a>
+<div>
+ <br>
+  
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawabata324&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kawabata324&theme=onedark&show_icons=ture" />
