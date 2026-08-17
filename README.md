@@ -1,8 +1,4 @@
 ### Hi I'm KawabataHaruki👋
-<div align="left">
-  My Study Logs ➡️
-  <a href="https://shrub-music-16e.notion.site/Study-b5986b5c5547484f87260b1372dd3e51">学習ページ📚</a>
-<div>
  <br>
   
 <p align="left"> 
