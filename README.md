@@ -37,25 +37,26 @@
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-1f2328?style=flat-square&logo=nextdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-1f2328?style=flat-square&logo=nuxtdotjs&logoColor=00DC82)
+![Vue.js](https://img.shields.io/badge/Vue.js-1f2328?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-1f2328?style=flat-square&logo=astro&logoColor=FF5D01)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1f2328?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
 **Backend**
 
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-1f2328?style=flat-square&logo=rubyonrails&logoColor=E0473D)
+![Ruby](https://img.shields.io/badge/Ruby-1f2328?style=flat-square&logo=ruby&logoColor=E0473D)
+![Node.js](https://img.shields.io/badge/Node.js-1f2328?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 
 **Tooling**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1f2328?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1f2328?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Vercel](https://img.shields.io/badge/Vercel-1f2328?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -70,16 +71,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img alt="Top Languages" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawabata324&layout=compact&theme=onedark&hide_border=true&langs_count=8" />
-  <img alt="GitHub Stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=kawabata324&theme=onedark&hide_border=true&show_icons=true" />
-</p>
-
----
-
 ## 🔗 Links
 
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/kawabata324)
-[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/haru1125632)
+[![Qiita](https://img.shields.io/badge/Qiita-1f2328?style=flat-square&logo=qiita&logoColor=55C500)](https://qiita.com/kawabata324)
+[![X](https://img.shields.io/badge/X-1f2328?style=flat-square&logo=x&logoColor=white)](https://x.com/haru1125632)
